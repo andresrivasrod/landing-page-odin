@@ -1,1 +1,1 @@
-# landing-page-odin
+The following page was made to put in practice the knwoledge I've gained so far on HTML and CSS in "The Odin Project"
